@@ -1,0 +1,6 @@
+{
+  "extensions": {
+    "coffee": "coffee-script/register",
+    "es": "babel-core/register"
+  }
+}
